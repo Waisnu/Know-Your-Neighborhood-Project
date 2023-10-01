@@ -1,4 +1,4 @@
-# Know-Your-Neighborhood
+#👉 Know-Your-Neighborhood 👈
 
 Introducing Know Your Neighborhood, a web application that provides users with valuable information about their local community. This application offers user registration, seamless Facebook OAuth2 login, store posting and searching features, and the ability to manage personal profiles.
 
@@ -6,15 +6,15 @@ Introducing Know Your Neighborhood, a web application that provides users with v
 
 The Know-Your-Neighborhood website consists of the following Key pages
 
-1. Home Page
-2. Registration Page
-3. Login Page with social login (Facebook)
-4. Contact us Page
-5. About us Page
-6. Stores Page
-7. Store Detail Page
-8. Post Store
-9. View Profile page
+1. Home Page ✔️
+2. Registration Page ✔️
+3. Login Page with social login (Facebook) ✔️
+4. Contact us Page ✔️
+5. About us Page ✔️
+6. Stores Page ✔️
+7. Store Detail Page ✔️
+8. Post Store ✔️
+9. View Profile page ✔️
 
 Customers can login using the existing API and fetch basic information such as name, email from API.
 
