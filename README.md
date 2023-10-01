@@ -1,4 +1,4 @@
-👉 #Know-Your-Neighborhood 👈
+#Know-Your-Neighborhood 
 
 Introducing Know Your Neighborhood, a web application that provides users with valuable information about their local community. This application offers user registration, seamless Facebook OAuth2 login, store posting and searching features, and the ability to manage personal profiles.
 
